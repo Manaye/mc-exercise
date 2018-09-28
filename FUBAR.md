@@ -13,6 +13,7 @@ What should we call our team?
 Team Fubar
 Mega turtles
 Sea-Town Coders
+Masters of Code
 Fruity Loops
 var <teamName> is undefined
 The Chickens that wanted to cross the road!
