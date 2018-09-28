@@ -21,8 +21,6 @@ The oak trees
 the pine wood
 
 
-
-<<<<<<< HEAD
 all team members are great. Except now bob is in vegas with carol and who knows what theyre up to or how they will finish their feature. :(
 
 
