@@ -22,7 +22,8 @@ the pine wood
 
 
 
-all team members are great. We respect each other equally now and Bob is back on his meds.
+all team members are great. We respect each other equally now and Bob is back on his meds. 
+Bob stopped taking the med.  He is now in Vegas at the blackjack table. I don't know how he will get the help he needs.
 
 
 
