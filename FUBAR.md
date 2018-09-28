@@ -22,7 +22,9 @@ the pine wood
 
 
 
-all team members are great. We respect each other equally now and Bob is back on his meds. We are tired of talking about Bob all the time. We want to talk about Carol. because carol is really smart all the time
+
+
+all team members are great. Except now bob is in vegas with carol and who knows what theyre up to or how they will finish their feature. 
 
 
 
