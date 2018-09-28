@@ -21,7 +21,7 @@ The oak trees
 the pine wood
 
 
-all team members are great. Except now bob is in vegas with carol and who knows what theyre up to or how they will finish their feature. :(
+all team members are great. Except now bob is in vegas with carol and who knows what theyre up to or how they will finish their feature. Bob and Carol are responsible. They will finsih their feature before visiting the sights in las vegas. 
 
 
 
