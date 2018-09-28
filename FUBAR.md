@@ -11,16 +11,15 @@ What should we call our team?
 
 
 Team Fubar
+Foobar Teamsters
 Mega turtles
+NEW team name 
 Sea-Town Coders
 Fruity Loops
 The Chickens that wanted to cross the road!
 The pine trees
 the pine forest
-Quake City
-The Quakers
-The Quackers
-Quake City bombers
+
 
 
 
