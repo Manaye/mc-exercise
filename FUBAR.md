@@ -10,6 +10,7 @@ Team Fubar
 Mega turtles
 Sea-Town Coders
 Fruity Loops
+var <teamName> is undefined
 The Chickens that wanted to cross the road!
 
 
