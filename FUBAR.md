@@ -9,6 +9,8 @@ What should we call our team?
 Team Fubar
 Mega turtles
 Sea-Town Coders
+Fruity Loops
+The Chickens that wanted to cross the road!
 
 
 bob doesn't suck. I'm sorry bob
