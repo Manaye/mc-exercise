@@ -20,6 +20,11 @@ The Chickens that wanted to cross the road!
 The oak trees
 the pine wood
 
-I know bob, and he is pretty nice, but curses like a sailor!
 
-Ted's new line of code!
+
+bob doesn't suck. In fact he is the sexiest man alive. I love bob. SO MUCH. I think about him every day. He is the best human that may have ever existed in every way.
+
+
+
+
+Blah Blah Blah
