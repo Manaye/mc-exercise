@@ -15,7 +15,9 @@ Foobar Teamsters
 Mega turtles
 NEW team name 
 Sea-Town Coders
+Masters of Code
 Fruity Loops
+var <teamName> is undefined
 The Chickens that wanted to cross the road!
 The pine trees
 the pine forest
