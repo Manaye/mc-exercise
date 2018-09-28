@@ -22,7 +22,7 @@ the pine wood
 
 
 
-all team members are great. We respect each other equally now and Bob is back on his meds.
+all team members are great. We respect each other equally now and Bob is back on his meds. We are tired of talking about Bob all the time. We want to talk about Carol. 
 
 
 
