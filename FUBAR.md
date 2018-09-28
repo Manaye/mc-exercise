@@ -22,8 +22,12 @@ the pine wood
 
 
 
+<<<<<<< HEAD
 bob doesn't suck. In fact he is the sexiest man alive. I love bob. SO MUCH. We all love Bob!
 
+=======
+bob doesn't suck. In fact he is the sexiest man alive. I love bob. SO MUCH. I think about him every day. He is the best human that may have ever existed in every way. I really think bob is nice.  I think Alice is deeply in love with Bob.  Hint hint.  The sorting hat has said so.
+>>>>>>> 32d3aaad6d26faa49cafc69e1ca40f7cea96a46f
 
 
 
