@@ -22,7 +22,8 @@ the pine wood
 
 
 
-bob doesn't suck. In fact he is the sexiest man alive. I love bob. SO MUCH. He makes Ted crazy because HR is so nice to him. 
+bob doesn't suck. In fact he is the sexiest man alive. I love bob. SO MUCH. We all love Bob!
+
 
 
 
