@@ -11,5 +11,5 @@ Mega turtles
 Sea-Town Coders
 
 
-bob sux 
+bob doesn't suck. I'm sorry bob
 
