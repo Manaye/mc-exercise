@@ -1,11 +1,13 @@
 New features added by Nerd and Other Nerd
 Why did the chicken cross the road?
 
+Ted says: "Because it wanted to get to the other side!" 
+
 If I told you I'd have to kill you.
 
 Team Names:
 
-What should we call our team?
+What should we call our team? Added to line. Conlict?
 Team Fubar
 Foobar Teamsters
 Teenage mutant ninja coders
@@ -18,6 +20,6 @@ The Chickens that wanted to cross the road!
 The oak trees
 the pine wood
 
-bob doesn't suck. I'm sorry bob
+I know bob, and he is pretty nice, but curses like a sailor!
 
-Blah Blah Blah
+Ted's new line of code!
