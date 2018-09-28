@@ -22,8 +22,12 @@ the pine wood
 
 
 
+<<<<<<< HEAD
 all team members are great. We respect each other equally now and Bob is back on his meds. 
 Bob stopped taking the med.  He is now in Vegas at the blackjack table. I don't know how he will get the help he needs.
+=======
+all team members are great. We respect each other equally now and Bob is back on his meds. We are tired of talking about Bob all the time. We want to talk about Carol. 
+>>>>>>> 9979fe8e5e34a8d0fdb15a040bb087e8a089a24e
 
 
 
