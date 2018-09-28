@@ -1,8 +1,8 @@
-New features added by Bob and Carol
+New features added by Nerd and Other Nerd
 Why did the chicken cross the road?
-I don't know either.  Haha.
+If I told you I'd have to kill you.
 
-Team Names:
+Squad Names:
 
 What should we call our team?
 
@@ -12,15 +12,15 @@ What should we call our team?
 
 Team Fubar
 Foobar Teamsters
-Mega turtles
+Teenage mutant ninja coders
 NEW team name 
-Sea-Town Coders
+Sea-Town Super Coders
 Masters of Code
-Fruity Loops
+Fruity Loopers
 var <teamName> is undefined
 The Chickens that wanted to cross the road!
-The pine trees
-the pine forest
+The oak trees
+the pine wood
 
 
 
